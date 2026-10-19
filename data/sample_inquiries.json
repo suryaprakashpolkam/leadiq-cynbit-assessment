@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SYN001",
+    "message": "We need an AI chatbot integrated with our website and CRM. Budget is \u20b92 lakh and we'd like to launch within 4 weeks.",
+    "label": "Ready for discovery"
+  },
+  {
+    "id": "SYN002",
+    "message": "I think we need a website but have not decided the features, budget, or deadline.",
+    "label": "Needs clarification"
+  },
+  {
+    "id": "SYN003",
+    "message": "Hello, tell me more about your services.",
+    "label": "Low information"
+  },
+  {
+    "id": "SYN004",
+    "message": "We need AWS deployment and monitoring; project scope and timeline are confirmed.",
+    "label": "Ready for discovery"
+  }
+]
